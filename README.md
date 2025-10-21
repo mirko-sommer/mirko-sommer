@@ -7,11 +7,6 @@ My main research interests lie at the intersection of Machine Learning, Natural 
 
 Find out more about me, my publications, and projects on my website [https://sommer.pub/](https://sommer.pub/).
 
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,cpp,git,postgres,js,&theme=light" />
-  </a>
-</p>
 
 <a href="https://github-readme-stats-phi-two-88.vercel.app/api">
   <img height=200 align="center" src="https://github-readme-stats-phi-two-88.vercel.app/api?username=mirko-sommer&theme=shadow_blue&hide_rank=true&card_width=350" />
