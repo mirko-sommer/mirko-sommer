@@ -1,10 +1,5 @@
 ## Hi there! I'm Mirko 👋
 
-I am currently in my final year as a Computational Linguistics B.A. student at Heidelberg University, 
-where I also work as an undergraduate research assistant in the [Department of German Language and Literature](https://www.gs.uni-heidelberg.de/en/chai-lab-computational-humanities-ai).
-
-My main research interests lie at the intersection of Machine Learning, Natural Language Processing, and AI Safety.
-
 Find out more about me, my publications, and projects on my website [https://sommer.pub/](https://sommer.pub/).
 
 
