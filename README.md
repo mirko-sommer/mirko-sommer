@@ -5,7 +5,7 @@ Learn more about me, my CV, publications, and projects on my website and socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mirko-sommer/)
 
 <a href="https://github.com/mirko-sommer">
-  <img height=200 align="center" src="https://github-readme-stats-phi-two-88.vercel.app/api?username=mirko-sommer&theme=shadow_blue&hide_rank=true&card_width=350" />
+  <img height=200 align="center" src="https://github-readme-stats-phi-two-88.vercel.app/api?username=mirko-sommer&theme=shadow_blue&hide_rank=true&card_width=350&count_private=true&include_all_commits=true" />
 </a>
 <a href="https://github.com/mirko-sommer">
   <img height=200 align="center" src="https://github-readme-stats-phi-two-88.vercel.app/api/top-langs?username=mirko-sommer&langs_count=8&card_width=350&theme=shadow_blue&layout=compact&hide=html" />
