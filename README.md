@@ -1,5 +1,5 @@
 ## Hey! I’m Mirko, exploring NLP and AI 👋
-Learn more about me, my CV, publications, and projects on my website and socials:
+Learn more about me, my publications, and projects on my website, CV, and socials:
 
 [![Website](https://img.shields.io/badge/Website-yellow?style=for-the-badge&logoColor=white)](https://sommer.pub/)
 [![CV](https://img.shields.io/badge/CV-purple?style=for-the-badge&logoColor=white)](https://sommer.pub/uploads/resume.pdf)
